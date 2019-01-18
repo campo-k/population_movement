@@ -1,0 +1,13 @@
+*.egg-info
+*.pot
+*.py[co]
+dist/
+docs/
+test/
+build/
+node_modules/
+population_data/*
+!population_data/guide.txt
+.idea/
+.DS_Store/
+**/migrations/
